@@ -1,0 +1,10 @@
+body{
+	background-color:black;
+}
+
+div{
+  text-align:center
+	font-size:20;
+	color:white;
+	position: relative;
+}
